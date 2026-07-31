@@ -1,0 +1,27 @@
+{
+  "name": "travel-guide-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "专业旅游攻略静态内容网站 - Vite + Vue 3",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc -b && vite build",
+    "build:nocheck": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "vue": "^3.4.38",
+    "vue-i18n": "^9.14.0",
+    "vue-router": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^14.1.2",
+    "@types/node": "^20.16.5",
+    "@vitejs/plugin-vue": "^5.1.3",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.6",
+    "vue-tsc": "^2.1.6"
+  }
+}

@@ -1,0 +1,58 @@
+---
+title: 大阪
+titleEn: Osaka
+description: 环球影城、道顿堀美食、大阪城历史，日本第二大城市的魅力。
+descriptionEn: Universal Studios Japan, Dotonbori food, Osaka Castle — Japan's kitchen.
+category: 亚洲
+categoryEn: 亚洲
+date: 2026-01-19
+cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Osaka%20Dotonbori%20night%20food%20street%20neon%20signs%20Japan&image_size=landscape_16_9
+tags:
+  - 日本
+  - 美食
+  - 历史
+---
+
+# 大阪
+
+环球影城、道顿堀美食、大阪城历史，日本第二大城市的魅力。
+
+## 一、最佳旅行时间
+
+美食之旅全年皆宜。部分季节有特别美食（如秋季的松茸、冬季的火锅）。
+
+## 二、必尝美食
+
+### 招牌菜
+
+当地最著名的传统菜肴，每一家老字号都有独门秘方。
+
+### 小吃
+
+街头小吃是当地美食的灵魂，价格亲民、味道地道。
+
+### 甜点
+
+当地特色甜点，是美食之旅的完美收官。
+
+## 三、美食地图
+
+- **老字号餐厅**：传承数十年的经典
+- **夜市**：集合各种小吃
+- **厨房市场**：当地食材的源头
+- **烹饪课**：学习制作当地美食
+
+## 四、文化
+
+当地美食文化源远流长，每一道菜都有故事。
+
+## 五、实用贴士
+
+1. 尝试当地特色而非连锁品牌
+2. 看当地人多的店
+3. 勇于尝试新食材
+4. 注意饮食卫生
+
+## 结语
+
+大阪的魅力藏在食物里。在这里，每一口都是文化，每一顿都是故事。
