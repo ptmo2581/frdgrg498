@@ -12,8 +12,6 @@ const langOpen = ref(false)
 const navItems = [
   { key: 'home', label: t('common.home'), to: '/' },
   { key: 'guides', label: t('common.articles'), to: '/guides' },
-  { key: 'about', label: t('common.about'), to: '/about' },
-  { key: 'privacy', label: t('common.privacy'), to: '/privacy' },
 ]
 
 function isActive(path: string): boolean {
@@ -32,11 +30,8 @@ function closeMobile() {
 }
 
 watch(locale, () => {
-  // 语言切换后更新导航文案
   navItems[0].label = t('common.home')
   navItems[1].label = t('common.articles')
-  navItems[2].label = t('common.about')
-  navItems[3].label = t('common.privacy')
 })
 </script>
 
