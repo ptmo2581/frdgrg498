@@ -6,7 +6,7 @@ descriptionEn: Alpine ski resorts, snow trains — ultimate winter experience.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-06-05
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Swiss%20Alps%20ski%20resort%20winter%20snow&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Alps%2Cski%2Csnow
 tags:
   - 瑞士
   - 滑雪

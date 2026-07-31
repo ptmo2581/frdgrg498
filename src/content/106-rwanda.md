@@ -6,7 +6,7 @@ descriptionEn: Gorillas, Lake Kivu, Land of Thousand Hills.
 category: 非洲
 categoryEn: 非洲
 date: 2026-04-22
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Rwanda%20volcano%20gorilla%20Africa&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Rwanda%2Cgorilla%2Cvolcano
 tags:
   - 卢旺达
   - 山地

@@ -6,7 +6,7 @@ descriptionEn: Hongdae shopping, Myeongdong food, Gyeongbokgung history — Seou
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-06-01
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Seoul%20Gyeongbokgung%20palace%20night%20illuminated%20traditional%20Korean%20architecture&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Seoul%2CKorea%2Ccity
 tags:
   - 韩国
   - 购物

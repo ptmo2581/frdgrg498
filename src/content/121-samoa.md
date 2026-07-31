@@ -6,7 +6,7 @@ descriptionEn: Waterfalls, volcanoes, traditional culture — Polynesia's heart.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-05-21
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Samoa%20tropical%20volcano%20waterfall%20Pacific&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Samoa%2Cwaterfall%2Cvolcano
 tags:
   - 萨摩亚
   - 火山

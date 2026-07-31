@@ -6,7 +6,7 @@ descriptionEn: Great Wall, Forbidden City, hutongs — grand imperial capital.
 category: 中国
 categoryEn: 中国
 date: 2026-03-08
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Beijing%20Great%20Wall%20Forbidden%20City%20China&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Beijing%2CChina%2CGreat%2CWall
 tags:
   - 北京
   - 长城

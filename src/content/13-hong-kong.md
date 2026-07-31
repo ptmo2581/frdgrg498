@@ -6,7 +6,7 @@ descriptionEn: Victoria Harbour skyline, Causeway Bay shopping, dim sum — Hong
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-03-04
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Hong%20Kong%20Victoria%20Harbour%20skyline%20night%20neon%20lights%20skyscrapers&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Hong%2CKong%2Cskyline
 tags:
   - 中国
   - 购物

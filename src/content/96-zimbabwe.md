@@ -6,7 +6,7 @@ descriptionEn: Victoria Falls, Zambezi, Great Zimbabwe ruins.
 category: 非洲
 categoryEn: 非洲
 date: 2026-04-28
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Zimbabwe%20Victoria%20Falls%20waterfall%20Africa&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Zimbabwe%2CVictoria%2CFalls
 tags:
   - 津巴布韦
   - 瀑布

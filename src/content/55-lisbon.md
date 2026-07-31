@@ -6,7 +6,7 @@ descriptionEn: Belém Tower, Jerónimos Monastery, pastel de nata — Atlantic h
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-09-12
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Lisbon%20Bel%C3%A9m%20Tower%20Portugal%20Tagus%20river&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Lisbon%2CPortugal%2Ccity
 tags:
   - 葡萄牙
   - 历史

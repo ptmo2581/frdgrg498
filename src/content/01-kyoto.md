@@ -6,7 +6,7 @@ descriptionEn: From cherry blossoms to autumn leaves, from Kiyomizu-dera to Aras
 category: 亚洲
 categoryEn: Asia
 date: 2026-03-12
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Kyoto%20Kiyomizu-dera%20temple%20cherry%20blossom%20spring%20wooden%20stage%20traditional%20Japanese%20architecture%20soft%20pink%20light&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Kyoto%2CJapan%2Ctemple
 featured: true
 tags:
   - 日本

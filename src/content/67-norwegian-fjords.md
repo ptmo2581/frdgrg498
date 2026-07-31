@@ -6,7 +6,7 @@ descriptionEn: Geirangerfjord, Sognefjord — glacial wonders.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-08-04
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Norwegian%20fjord%20Geiranger%20mountain%20waterfall&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Norway%2Cfjord%2Cwaterfall
 tags:
   - 挪威
   - 峡湾

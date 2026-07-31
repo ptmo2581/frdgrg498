@@ -6,7 +6,7 @@ descriptionEn: Sanya, Yalong Bay, Tianya Haijiao — China's tropical paradise.
 category: 中国
 categoryEn: 中国
 date: 2026-09-16
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Hainan%20Sanya%20tropical%20beach%20palm%20China&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Hainan%2CChina%2Ctropical%2Cbeach
 tags:
   - 海南
   - 海岛

@@ -6,7 +6,7 @@ descriptionEn: Independence Square, cinnamon gardens, tropical Sri Lankan capita
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-05-13
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Colombo%20Sri%20Lanka%20tropical%20Indian%20Ocean&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Colombo%2CSri%2CLanka
 tags:
   - 斯里兰卡
   - 热带

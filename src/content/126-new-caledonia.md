@@ -6,7 +6,7 @@ descriptionEn: Southern Cross, lagoon, French flair — Pacific France.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-07-21
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=New%20Caledonia%20lagoon%20Pacific%20tropical&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?New%2CCaledonia%2Clagoon
 tags:
   - 新喀里多尼亚
   - 潟湖

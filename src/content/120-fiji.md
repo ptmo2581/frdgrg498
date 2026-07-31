@@ -6,7 +6,7 @@ descriptionEn: South Pacific island — coral reefs, tribal culture, tropical pa
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-06-21
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Fiji%20tropical%20island%20coral%20reef%20Pacific&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Fiji%2Cbeach%2Ctropical
 tags:
   - 斐济
   - 海岛

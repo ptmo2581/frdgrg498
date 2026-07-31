@@ -6,7 +6,7 @@ descriptionEn: Jinja Falls, Queen Elizabeth — source of the Nile.
 category: 非洲
 categoryEn: 非洲
 date: 2026-05-19
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Uganda%20Jinja%20Falls%20Nile%20Africa&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Uganda%2Cwaterfall%2CNile
 tags:
   - 乌干达
   - 瀑布

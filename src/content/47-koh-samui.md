@@ -6,7 +6,7 @@ descriptionEn: Chaweng Beach, Big Buddha, Full Moon Party — Gulf of Thailand c
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-08-26
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Koh%20Samui%20Thailand%20tropical%20beach%20coconut%20sunset&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Koh%2CSamui%2CThailand
 tags:
   - 泰国
   - 海岛

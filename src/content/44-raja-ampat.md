@@ -6,7 +6,7 @@ descriptionEn: Four Kings — world's top diving, heart of the Coral Triangle.
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-09-16
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Raja%20Ampat%20Indonesia%20diving%20coral%20reef%20tropical&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Raja%2CAmpat%2CIndonesia%2Ccoral
 tags:
   - 印尼
   - 潜水

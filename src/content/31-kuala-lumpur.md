@@ -6,7 +6,7 @@ descriptionEn: Petronas Towers, Batu Caves, Petaling Street — Malaysia's melti
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-04-07
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Kuala%20Lumpur%20Petronas%20twin%20towers%20night%20Malaysia%20skyline&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Kuala%2CLumpur%2CMalaysia
 tags:
   - 马来西亚
   - 都市

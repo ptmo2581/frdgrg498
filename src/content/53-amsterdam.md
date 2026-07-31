@@ -6,7 +6,7 @@ descriptionEn: Canals, Van Gogh Museum, Anne Frank — Venice of the North.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-09-24
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Amsterdam%20canals%20Netherlands%20golden%20hour%20bridge&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Amsterdam%2CNetherlands%2Ccanal
 tags:
   - 荷兰
   - 艺术

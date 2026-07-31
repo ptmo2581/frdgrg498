@@ -6,7 +6,7 @@ descriptionEn: Colosseum, Vatican, Trevi Fountain — the Eternal City.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-06-16
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Rome%20Colosseum%20Italy%20ancient%20ruins%20sunset&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Rome%2CItaly%2CColosseum
 tags:
   - 意大利
   - 古迹

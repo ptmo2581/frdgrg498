@@ -6,7 +6,7 @@ descriptionEn: Gardens by the Bay, Sentosa, Chinatown — the garden city's dive
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-08-26
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Singapore%20Gardens%20by%20the%20Bay%20night%20supertree%20illuminated&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Singapore%2Ccity%2Cskyline
 tags:
   - 新加坡
   - 都市

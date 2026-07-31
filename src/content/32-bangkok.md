@@ -6,7 +6,7 @@ descriptionEn: Grand Palace, Wat Pho, Khao San Road — Thailand's beating heart
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-05-11
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Bangkok%20Grand%20Palace%20Wat%20Phra%20Kaew%20Thailand%20ornate&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Bangkok%2CThailand%2Ctemple
 tags:
   - 泰国
   - 美食

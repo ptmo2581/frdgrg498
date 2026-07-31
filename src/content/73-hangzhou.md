@@ -6,7 +6,7 @@ descriptionEn: West Lake, Lingyin Temple, Longjing tea — heaven on earth.
 category: 中国
 categoryEn: 中国
 date: 2026-04-13
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Hangzhou%20West%20Lake%20pagoda%20bridge%20China&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Hangzhou%2CChina%2CWest%2CLake
 tags:
   - 浙江
   - 西湖

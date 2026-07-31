@@ -6,7 +6,7 @@ descriptionEn: Monte Carlo Casino, Prince's Palace — world's second smallest c
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-02-07
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Monaco%20Monte%20Carlo%20casino%20Mediterranean%20luxury&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Monaco%2CMediterranean
 tags:
   - 摩纳哥
   - 奢华

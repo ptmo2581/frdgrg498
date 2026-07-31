@@ -6,7 +6,7 @@ descriptionEn: Bungee, Skyline Gondola, Lake Wanaka — adventure capital.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-04-25
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Queenstown%20Lake%20Wakatipu%20New%20Zealand&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Queenstown%2CNew%2CZealand%2Clake
 tags:
   - 新西兰
   - 极限

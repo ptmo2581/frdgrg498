@@ -6,7 +6,7 @@ descriptionEn: Terracotta Army, Giant Wild Goose Pagoda — ancient capital.
 category: 中国
 categoryEn: 中国
 date: 2026-09-20
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Xi'an%20Terracotta%20Warriors%20ancient%20China&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Xian%2CChina%2CTerracotta
 tags:
   - 陕西
   - 古迹

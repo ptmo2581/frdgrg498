@@ -6,7 +6,7 @@ descriptionEn: City walls, Old Town, Adriatic — King's Landing.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-01-09
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Dubrovnik%20old%20town%20walls%20Croatia%20Adriatic&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Dubrovnik%2CCroatia%2Csea
 tags:
   - 克罗地亚
   - 古城

@@ -6,7 +6,7 @@ descriptionEn: St. Mark's Square, Grand Canal, gondolas — the floating city.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-02-19
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Venice%20Grand%20Canal%20gondola%20Italy%20sunset&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Venice%2CItaly%2Ccanal
 tags:
   - 意大利
   - 浪漫

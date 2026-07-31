@@ -6,7 +6,7 @@ descriptionEn: Humpback whales, volcanic islands — South Pacific kingdom.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-09-19
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tonga%20volcano%20island%20whale%20Pacific&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Tonga%2Cwhale%2Cvolcano
 tags:
   - 汤加
   - 鲸鱼

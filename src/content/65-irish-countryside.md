@@ -6,7 +6,7 @@ descriptionEn: Cliffs of Moher, Guinness, Celtic culture — the Emerald Isle.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-01-11
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Irish%20Cliffs%20of%20Moher%20Atlantic%20emerald&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Ireland%2Ccliffs%2Cgreen
 tags:
   - 爱尔兰
   - 悬崖

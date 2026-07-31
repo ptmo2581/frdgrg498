@@ -6,7 +6,7 @@ descriptionEn: World's largest religious monument — peak of Khmer civilization
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-05-15
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Angkor%20Wat%20Cambodia%20sunrise%20temple%20ruins%20Khmer%20architecture&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Angkor%2CWat%2CCambodia
 tags:
   - 柬埔寨
   - 古迹

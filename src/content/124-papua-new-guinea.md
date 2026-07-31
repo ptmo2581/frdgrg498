@@ -6,7 +6,7 @@ descriptionEn: Tribal culture, rainforest, early Cook voyages.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-08-05
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Papua%20New%20Guinea%20tribal%20culture%20rainforest&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Papua%2CNew%2CGuinea%2Ctribe
 tags:
   - 巴布亚新几内亚
   - 部落

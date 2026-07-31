@@ -6,7 +6,7 @@ descriptionEn: Ryukyu culture, diving, subtropical islands — Japan's southernm
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-08-05
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Okinawa%20Japan%20tropical%20island%20turquoise%20water%20diving&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Okinawa%2CJapan%2Cbeach
 tags:
   - 日本
   - 海岛

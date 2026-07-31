@@ -6,7 +6,7 @@ descriptionEn: East/West Zha, blue calico — water town living.
 category: 中国
 categoryEn: 中国
 date: 2026-09-09
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Wuzhen%20water%20town%20Jiangnan%20China%20canal&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Wuzhen%2CChina%2Cwater%2Ctown
 tags:
   - 浙江
   - 古镇

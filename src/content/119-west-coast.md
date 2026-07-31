@@ -6,7 +6,7 @@ descriptionEn: Perth to Kimberley, Shark Bay, Ningaloo Reef.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-09-13
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Australia%20West%20Coast%20Ningaloo%20Reef&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Australia%2Ccoral%2Creef
 tags:
   - 澳大利亚
   - 海岸

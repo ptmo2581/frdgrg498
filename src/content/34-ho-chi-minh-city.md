@@ -6,7 +6,7 @@ descriptionEn: Notre-Dame Cathedral, Central Post Office, Cu Chi Tunnels — vib
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-03-13
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Ho%20Chi%20Minh%20City%20Notre%20Dame%20Cathedral%20Vietnam%20colonial&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Ho%2CChi%2CMinh%2CVietnam
 tags:
   - 越南
   - 历史

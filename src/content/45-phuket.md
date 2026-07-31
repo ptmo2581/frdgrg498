@@ -6,7 +6,7 @@ descriptionEn: Patong Beach, Old Phuket, Phang Nga Bay — Thailand's largest is
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-06-24
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Phuket%20Patong%20beach%20Thailand%20sunset%20tropical&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Phuket%2CThailand%2Cbeach
 tags:
   - 泰国
   - 海岛

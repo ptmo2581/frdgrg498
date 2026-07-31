@@ -6,7 +6,7 @@ descriptionEn: A complete Maldives island-selection guide covering all-inclusive
 category: 东南亚
 categoryEn: Southeast Asia
 date: 2026-07-01
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Maldives%20overwater%20villa%20turquoise%20lagoon%20white%20sand%20beach%20palm%20trees%20aerial%20view%20tropical%20paradise&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Maldives%2Coverwater%2Cbungalow
 featured: false
 tags:
   - 海岛

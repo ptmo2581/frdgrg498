@@ -6,7 +6,7 @@ descriptionEn: Maasai Mara, elephants, Great Migration — African wild.
 category: 非洲
 categoryEn: 非洲
 date: 2026-03-18
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Kenya%20Maasai%20Mara%20savanna%20elephant%20Africa&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Kenya%2Csafari%2Celephant
 tags:
   - 肯尼亚
   - 野生动物

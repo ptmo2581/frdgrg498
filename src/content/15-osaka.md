@@ -6,7 +6,7 @@ descriptionEn: Universal Studios Japan, Dotonbori food, Osaka Castle — Japan's
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-01-19
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Osaka%20Dotonbori%20night%20food%20street%20neon%20signs%20Japan&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Osaka%2CJapan%2Cstreet
 tags:
   - 日本
   - 美食

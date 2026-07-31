@@ -6,7 +6,7 @@ descriptionEn: Japan's highest peak, cherry blossoms and reflection at Kawaguchi
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-03-01
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Mount%20Fuji%20Japan%20cherry%20blossom%20lake%20reflection%20spring&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Mount%2CFuji%2CJapan%2Csnow
 tags:
   - 日本
   - 山岳

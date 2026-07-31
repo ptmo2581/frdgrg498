@@ -6,7 +6,7 @@ descriptionEn: From Oia sunset to volcano hot springs, from Red Beach to cliff h
 category: 欧洲
 categoryEn: Europe
 date: 2026-06-10
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Santorini%20Oia%20white%20buildings%20blue%20domes%20Aegean%20sea%20sunset%20Greece%20cliffside%20golden%20hour&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Santorini%2CGreece%2Cwhite%2Cblue
 featured: true
 tags:
   - 希腊

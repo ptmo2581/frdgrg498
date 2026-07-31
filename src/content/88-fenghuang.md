@@ -6,7 +6,7 @@ descriptionEn: Tuo River, stilt houses, Miao culture — Shen Congwen's border t
 category: 中国
 categoryEn: 中国
 date: 2026-08-11
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Fenghuang%20ancient%20town%20Tuo%20River%20Hunan&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Fenghuang%2CChina%2Cancient%2Ctown
 tags:
   - 湖南
   - 古城

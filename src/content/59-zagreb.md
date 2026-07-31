@@ -6,7 +6,7 @@ descriptionEn: Cathedral, Plitvice Lakes — Croatia's capital.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-09-20
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Zagreb%20Plitvice%20Lakes%20Croatia%20waterfall&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Zagreb%2CCroatia%2Ccity
 tags:
   - 克罗地亚
   - 湖泊

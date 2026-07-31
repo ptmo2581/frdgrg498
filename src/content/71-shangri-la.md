@@ -6,7 +6,7 @@ descriptionEn: Pudacuo, Songzanlin Monastery, Napa Lake — the lost horizon.
 category: 中国
 categoryEn: 中国
 date: 2026-09-05
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Shangri-La%20Songzanlin%20Monastery%20Yunnan%20Tibetan&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Shangri-La%2CYunnan%2CTibet%2CMongolia
 tags:
   - 云南
   - 草原

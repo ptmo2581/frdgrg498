@@ -6,7 +6,7 @@ descriptionEn: Praslin, Aldabra Atoll — Earth's last Eden.
 category: 非洲
 categoryEn: 非洲
 date: 2026-02-19
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Seychelles%20tropical%20beach%20boulder%20palm&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Seychelles%2Cbeach%2Ctropical
 tags:
   - 塞舌尔
   - 海岛

@@ -6,7 +6,7 @@ descriptionEn: White Beach, sunset paraw sailing — Philippines' party island.
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-06-27
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Boracay%20White%20Beach%20Philippines%20sunset%20tropical&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Boracay%2CPhilippines%2Cbeach
 tags:
   - 菲律宾
   - 海岛

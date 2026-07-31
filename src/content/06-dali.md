@@ -6,7 +6,7 @@ descriptionEn: From Erhai lake loop to Dali old town, from Xizhou morning market
 category: 中国
 categoryEn: China
 date: 2026-03-28
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Dali%20Yunnan%20Erhai%20lake%20Cangshan%20mountain%20sunset%20traditional%20Bai%20houses%20boats%20misty%20scenic&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Dali%2CYunnan%2CChina%2Clake
 featured: false
 tags:
   - 云南

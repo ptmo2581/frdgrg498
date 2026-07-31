@@ -6,7 +6,7 @@ descriptionEn: Sossusvlei red desert, Walvis Bay seals, Skeleton Coast.
 category: 非洲
 categoryEn: 非洲
 date: 2026-02-10
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Namibia%20Sossusvlei%20red%20desert%20dune&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Namibia%2Cdesert%2Cdunes
 tags:
   - 纳米比亚
   - 沙漠

@@ -6,7 +6,7 @@ descriptionEn: South Bank, Lone Pine Koala Sanctuary — sunny Queensland capita
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-05-14
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Brisbane%20South%20Bank%20Australia%20river&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Brisbane%2CAustralia%2Criver
 tags:
   - 澳大利亚
   - 考拉

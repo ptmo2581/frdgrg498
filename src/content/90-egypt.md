@@ -6,7 +6,7 @@ descriptionEn: Pyramids, pharaohs, Nile — one of humanity's origins.
 category: 非洲
 categoryEn: 非洲
 date: 2026-08-18
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Egypt%20pyramids%20Giza%20Nile%20ancient%20wonder&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Egypt%2Cpyramids%2Cdesert
 tags:
   - 埃及
   - 古迹

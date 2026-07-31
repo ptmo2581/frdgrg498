@@ -6,7 +6,7 @@ descriptionEn: A 12-day Morocco loop covering Marrakech, Fes, Chefchaouen blue v
 category: 非洲
 categoryEn: Africa
 date: 2026-04-25
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Chefchaouen%20Morocco%20blue%20village%20narrow%20alley%20medina%20mountains%20colorful%20pots%20moroccan%20atmosphere&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Marrakech%2CMorocco%2Csouk
 featured: false
 tags:
   - 摩洛哥

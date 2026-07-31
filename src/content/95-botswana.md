@@ -6,7 +6,7 @@ descriptionEn: Okavango Delta, Chobe elephants — Africa's oasis.
 category: 非洲
 categoryEn: 非洲
 date: 2026-08-21
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Botswana%20Okavango%20Delta%20elephant%20Africa&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Botswana%2COkavango%2Celephant
 tags:
   - 博茨瓦纳
   - 三角洲

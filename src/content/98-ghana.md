@@ -6,7 +6,7 @@ descriptionEn: Accra, Kumasi, slave forts — West African history.
 category: 非洲
 categoryEn: 非洲
 date: 2026-05-25
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Ghana%20Accra%20colonial%20architecture%20Africa&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Ghana%2CAccra%2CAfrica
 tags:
   - 加纳
   - 历史

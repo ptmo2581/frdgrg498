@@ -6,7 +6,7 @@ descriptionEn: A slow-travel guide to Chiang Mai: old city, Doi Suthep, Pai, ele
 category: 东南亚
 categoryEn: Southeast Asia
 date: 2026-02-20
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Chiang%20Mai%20Thailand%20golden%20temple%20Doi%20Suthep%20mountain%20misty%20jungle%20tropical%20green%20serene&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Chiang%2CMai%2CThailand%2Ctemple
 featured: false
 tags:
   - 泰国

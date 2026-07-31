@@ -6,7 +6,7 @@ descriptionEn: Cradle Mountain, Wineglass Bay, Launceston — island paradise.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-04-24
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tasmania%20Cradle%20Mountain%20Australia&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Tasmania%2CAustralia%2Cmountain
 tags:
   - 澳大利亚
   - 山地

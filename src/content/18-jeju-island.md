@@ -6,7 +6,7 @@ descriptionEn: Hallasan Mountain, Teddy Bear Museum, black pork — Korea's Hawa
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-07-05
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Jeju%20Island%20Hallasan%20mountain%20tropical%20Korea&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Jeju%2CKorea%2Cisland
 tags:
   - 韩国
   - 海岛

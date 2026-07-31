@@ -6,7 +6,7 @@ descriptionEn: Lemurs, baobabs, rainforest — world's fourth largest island.
 category: 非洲
 categoryEn: 非洲
 date: 2026-02-14
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Madagascar%20lemur%20baobab%20tree%20tropical&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Madagascar%2Clemur%2Cbaobab
 tags:
   - 马达加斯加
   - 野生动物

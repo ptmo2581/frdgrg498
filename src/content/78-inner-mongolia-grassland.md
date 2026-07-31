@@ -6,7 +6,7 @@ descriptionEn: Hulunbuir, Argun River — vast freedom of the steppe.
 category: 中国
 categoryEn: 中国
 date: 2026-02-15
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Inner%20Mongolia%20grassland%20horse%20sunset%20China&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Mongolia%2Cgrassland%2Chorse
 tags:
   - 内蒙古
   - 草原

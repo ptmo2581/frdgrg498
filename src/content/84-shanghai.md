@@ -6,7 +6,7 @@ descriptionEn: Bund, Lujiazui, shikumen — Modu's century charm.
 category: 中国
 categoryEn: 中国
 date: 2026-06-13
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Shanghai%20Bund%20night%20skyline%20Pudong%20China&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Shanghai%2CChina%2CBund
 tags:
   - 上海
   - 外滩

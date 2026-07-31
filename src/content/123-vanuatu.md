@@ -6,7 +6,7 @@ descriptionEn: Tanna volcano, underwater post office, jungle trekking.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-02-09
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Vanuatu%20Tanna%20volcano%20Pacific%20island&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Vanuatu%2Cvolcano%2Cisland
 tags:
   - 瓦努阿图
   - 火山

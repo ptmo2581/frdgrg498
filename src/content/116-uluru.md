@@ -6,7 +6,7 @@ descriptionEn: Ayers Rock, Kata Tjuta, starry sky — Australia's heart.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-07-07
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Uluru%20Ayers%20Rock%20Australia%20sunset%20desert&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Uluru%2CAustralia%2Cdesert
 tags:
   - 澳大利亚
   - 红岩

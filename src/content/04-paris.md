@@ -6,7 +6,7 @@ descriptionEn: From the Louvre to Montmartre, from croissants to Rive Gauche caf
 category: 欧洲
 categoryEn: Europe
 date: 2026-05-08
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Paris%20Eiffel%20Tower%20Seine%20river%20Haussmann%20buildings%20spring%20blossom%20golden%20light%20romantic&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Paris%2CFrance%2CEiffel
 featured: false
 tags:
   - 法国

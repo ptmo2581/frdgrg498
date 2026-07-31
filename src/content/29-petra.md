@@ -6,7 +6,7 @@ descriptionEn: Rose-red sandstone city, Nabataean wonder — New Seven Wonder of
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-09-12
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Petra%20Jordan%20rose%20red%20sandstone%20canyon%20treasury&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Petra%2CJordan%2Cdesert
 tags:
   - 约旦
   - 古迹

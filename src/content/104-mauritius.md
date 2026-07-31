@@ -6,7 +6,7 @@ descriptionEn: Colored Earth, Grand Baie, Port Louis — sweet Indian Ocean isle
 category: 非洲
 categoryEn: 非洲
 date: 2026-08-26
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Mauritius%20colored%20earth%20Chamarel%20tropical&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Mauritius%2Cbeach%2Cisland
 tags:
   - 毛里求斯
   - 海岛

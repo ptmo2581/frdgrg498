@@ -6,7 +6,7 @@ descriptionEn: One of the Seven Wonders — the marble mausoleum of eternal love
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-04-27
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Taj%20Mahal%20Agra%20India%20white%20marble%20mausoleum%20wonder&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Taj%2CMahal%2CIndia
 tags:
   - 印度
   - 古迹

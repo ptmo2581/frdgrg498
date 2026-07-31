@@ -6,7 +6,7 @@ descriptionEn: Basotho culture, Drakensberg — Africa's Switzerland.
 category: 非洲
 categoryEn: 非洲
 date: 2026-08-19
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Lesotho%20Drakensberg%20mountains%20Africa&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Lesotho%2Cmountains%2CAfrica
 tags:
   - 莱索托
   - 山地

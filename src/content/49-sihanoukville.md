@@ -6,7 +6,7 @@ descriptionEn: Ochheuteal Beach, Independence Beach — Cambodia's coastal city.
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-06-21
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Sihanoukville%20Cambodia%20tropical%20beach%20sunset&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Sihanoukville%2CCambodia%2Cbeach
 tags:
   - 柬埔寨
   - 海岛

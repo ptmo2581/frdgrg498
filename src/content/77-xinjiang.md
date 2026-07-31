@@ -6,7 +6,7 @@ descriptionEn: Kanas Lake, Tianchi, Taklamakan — vastness of the Western Regio
 category: 中国
 categoryEn: 中国
 date: 2026-07-02
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Xinjiang%20Kanas%20Lake%20China%20autumn%20colorful&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Xinjiang%2CChina%2Cdesert%2Clake
 tags:
   - 新疆
   - 沙漠

@@ -6,7 +6,7 @@ descriptionEn: Durbar Square, Swayambhunath, Nepal's spiritual heart.
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-04-05
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Kathmandu%20Durbar%20Square%20Nepal%20traditional%20architecture&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Kathmandu%2CNepal%2Ctemple
 tags:
   - 尼泊尔
   - 宗教

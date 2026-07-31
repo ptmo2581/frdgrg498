@@ -6,7 +6,7 @@ descriptionEn: Mosques, bazaars, Silk Road — Afghanistan's historic gem.
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-06-24
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Herat%20Afghanistan%20mosque%20tiled%20turquoise%20minaret&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Herat%2CAfghanistan%2Cmosque
 tags:
   - 阿富汗
   - 历史

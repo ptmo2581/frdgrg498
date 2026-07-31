@@ -6,7 +6,7 @@ descriptionEn: Royal Palace, Silver Pagoda, Mekong — Cambodia's capital.
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-09-14
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Phnom%20Penh%20Royal%20Palace%20Cambodia%20Mekong%20river&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Phnom%2CPenh%2CCambodia
 tags:
   - 柬埔寨
   - 历史

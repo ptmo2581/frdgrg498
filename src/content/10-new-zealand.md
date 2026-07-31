@@ -6,7 +6,7 @@ descriptionEn: A 14-day South Island self-drive itinerary covering Queenstown, M
 category: 大洋洲
 categoryEn: Oceania
 date: 2026-05-22
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=New%20Zealand%20South%20Island%20Milford%20Sound%20fjord%20misty%20mountains%20waterfall%20lupine%20flowers%20dramatic%20landscape&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?New%2CZealand%2CMilford%2CSound
 featured: true
 tags:
   - 新西兰

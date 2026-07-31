@@ -6,7 +6,7 @@ descriptionEn: Welcome pine, sea of clouds, hot springs — the Yellow Mountain.
 category: 中国
 categoryEn: 中国
 date: 2026-04-01
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Huangshan%20China%20yellow%20mountain%20pine%20cloud&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Huangshan%2CChina%2Cmountain%2Ccloud
 tags:
   - 安徽
   - 名山

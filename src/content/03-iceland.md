@@ -6,7 +6,7 @@ descriptionEn: A 10-day Ring Road self-drive itinerary covering Golden Circle, S
 category: 欧洲
 categoryEn: Europe
 date: 2026-01-15
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Iceland%20northern%20lights%20aurora%20borealis%20over%20glacier%20lagoon%20snow%20mountains%20green%20purple%20sky&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Iceland%2Cglacier%2Caurora
 featured: true
 tags:
   - 冰岛

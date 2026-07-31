@@ -6,7 +6,7 @@ descriptionEn: Chain Bridge, Fisherman's Bastion, thermal baths — Danube twin 
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-08-10
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Budapest%20Chain%20Bridge%20Hungary%20Danube%20river&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Budapest%2CHungary%2CDanube
 tags:
   - 匈牙利
   - 温泉

@@ -6,7 +6,7 @@ descriptionEn: Jungfrau, Matterhorn, Glacier Express — backbone of Europe.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-08-09
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Swiss%20Alps%20Matterhorn%20mountain%20snow&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Swiss%2CAlps%2Cmountain
 tags:
   - 瑞士
   - 雪山

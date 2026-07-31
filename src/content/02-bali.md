@@ -6,7 +6,7 @@ descriptionEn: A complete guide covering Bali's six regions, beaches, temples, r
 category: 东南亚
 categoryEn: Southeast Asia
 date: 2026-04-02
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Bali%20Ulunatu%20temple%20cliff%20ocean%20sunset%20tropical%20palm%20trees%20golden%20hour&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Bali%2CIndonesia%2Crice%2Cterrace
 featured: true
 tags:
   - 印尼

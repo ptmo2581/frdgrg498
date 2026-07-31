@@ -6,7 +6,7 @@ descriptionEn: Buddhist city on Mekong, night market, alms giving, Kuang Si fall
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-04-05
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Luang%20Prabang%20Laos%20Mekong%20river%20Buddhist%20temple&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Luang%2CPrabang%2CLaos
 tags:
   - 老挝
   - 宗教

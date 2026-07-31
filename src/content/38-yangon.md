@@ -6,7 +6,7 @@ descriptionEn: Shwedagon Pagoda, colonial architecture — Myanmar's spiritual h
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-03-28
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Yangon%20Shwedagon%20Pagoda%20Myanmar%20golden%20stupa%20night&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Yangon%2CMyanmar%2Cpagoda
 tags:
   - 缅甸
   - 宗教

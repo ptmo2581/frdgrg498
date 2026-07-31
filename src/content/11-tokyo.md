@@ -6,7 +6,7 @@ descriptionEn: From Shibuya crossing to Senso-ji temple, Tokyo blends tradition 
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-01-20
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tokyo%20Shibuya%20crossing%20neon%20lights%20night%20skyline%20Japan%20urban&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Tokyo%2CJapan%2Ccity
 tags:
   - 日本
   - 都市

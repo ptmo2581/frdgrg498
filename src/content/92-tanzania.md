@@ -6,7 +6,7 @@ descriptionEn: Kilimanjaro, Zanzibar, Serengeti — roof of Africa.
 category: 非洲
 categoryEn: 非洲
 date: 2026-06-13
-cover: https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=Tanzania%20Kilimanjaro%20snow%20Africa%20highest&image_size=landscape_16_9
+cover: https://source.unsplash.com/1600x900/?Tanzania%2CKilimanjaro%2Csafari
 tags:
   - 坦桑尼亚
   - 雪山
