@@ -3,11 +3,7 @@ import vue from '@vitejs/plugin-vue'
 import { resolve } from 'node:path'
 import { versionPlugin } from './src/plugins/version'
 
-// GitHub Pages 部署基础路径
-// - 用户/组织站点 (username.github.io) -> '/'
-// - 项目站点 (username.github.io/repo) -> '/repo/'
-// 如部署到项目站点，请改为你的仓库名，例如 '/weinxhi/'
-const BASE = process.env.VITE_BASE || '/'
+const BASE = process.env.VITE_BASE || '/frdgrg498/'
 
 export default defineConfig({
   base: BASE,
