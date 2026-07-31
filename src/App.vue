@@ -10,7 +10,7 @@ const { t, locale } = useI18n()
 
 // 根据路由元信息更新页面标题
 watch(
-  () => route.meta.titleKey,
+  () => route.meta.titleKey as string | undefined,
   (key) => {
     const title = key ? t(key) : t('common.siteName')
     document.title = `${title} | ${t('common.siteName')}`

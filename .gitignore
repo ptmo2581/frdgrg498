@@ -2,6 +2,13 @@
 dist
 dist-ssr
 *.local
+*.tsbuildinfo
+
+# 生成的临时文件
+src/plugins/*.js
+src/plugins/*.d.ts
+vite.config.js
+vite.config.d.ts
 
 # 依赖
 node_modules
