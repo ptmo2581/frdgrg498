@@ -6,7 +6,7 @@ descriptionEn: From cherry blossoms to autumn leaves, from Kiyomizu-dera to Aras
 category: 亚洲
 categoryEn: Asia
 date: 2026-03-12
-cover: https://source.unsplash.com/1600x900/?Kyoto%2CJapan%2Ctemple
+cover: https://picsum.photos/seed/kyoto/1600/900
 featured: true
 tags:
   - 日本

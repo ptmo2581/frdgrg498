@@ -6,7 +6,7 @@ descriptionEn: Colored Earth, Grand Baie, Port Louis — sweet Indian Ocean isle
 category: 非洲
 categoryEn: 非洲
 date: 2026-08-26
-cover: https://source.unsplash.com/1600x900/?Mauritius%2Cbeach%2Cisland
+cover: https://picsum.photos/seed/mauritius-14/1600/900
 tags:
   - 毛里求斯
   - 海岛

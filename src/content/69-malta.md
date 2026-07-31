@@ -6,7 +6,7 @@ descriptionEn: Valletta, megalithic temples — Mediterranean micro-nation.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-07-04
-cover: https://source.unsplash.com/1600x900/?Malta%2CMediterranean%2Csea
+cover: https://picsum.photos/seed/malta-98/1600/900
 tags:
   - 马耳他
   - 古迹

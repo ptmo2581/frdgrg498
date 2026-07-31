@@ -6,7 +6,7 @@ descriptionEn: Burj Khalifa, Burj Al Arab, desert safari — luxury in the Arabi
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-07-23
-cover: https://source.unsplash.com/1600x900/?Dubai%2CUAE%2Cdesert
+cover: https://picsum.photos/seed/dubai-52/1600/900
 tags:
   - 阿联酋
   - 奢华

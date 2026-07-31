@@ -6,7 +6,7 @@ descriptionEn: Swan River, Kings Park, Fremantle — world's loneliest city.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-07-10
-cover: https://source.unsplash.com/1600x900/?Perth%2CAustralia%2Ccity
+cover: https://picsum.photos/seed/perth-24/1600/900
 tags:
   - 澳大利亚
   - 海岸

@@ -6,7 +6,7 @@ descriptionEn: Spanish colonial heritage, Rizal Park, seafood — Philippines' c
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-09-26
-cover: https://source.unsplash.com/1600x900/?Manila%2CPhilippines%2Ccity
+cover: https://picsum.photos/seed/manila-68/1600/900
 tags:
   - 菲律宾
   - 历史

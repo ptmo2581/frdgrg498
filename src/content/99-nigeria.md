@@ -6,7 +6,7 @@ descriptionEn: Lagos, Abuja, Niger River — West Africa's largest.
 category: 非洲
 categoryEn: 非洲
 date: 2026-05-27
-cover: https://source.unsplash.com/1600x900/?Nigeria%2CLagos%2Ccity
+cover: https://picsum.photos/seed/nigeria-128/1600/900
 tags:
   - 尼日利亚
   - 都市

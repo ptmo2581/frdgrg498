@@ -6,7 +6,7 @@ descriptionEn: Qinghai Lake, Chaka Salt Lake — Tibetan plateau pearl.
 category: 中国
 categoryEn: 中国
 date: 2026-03-05
-cover: https://source.unsplash.com/1600x900/?Qinghai%2CChina%2Clake%2Csalt
+cover: https://picsum.photos/seed/qinghai-115/1600/900
 tags:
   - 青海
   - 盐湖

@@ -6,7 +6,7 @@ descriptionEn: Loch Ness, Glencoe, kilts — rugged beauty of the Highlands.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-08-04
-cover: https://source.unsplash.com/1600x900/?Scotland%2CHighlands%2Cloch
+cover: https://picsum.photos/seed/scottish-highlands-93/1600/900
 tags:
   - 英国
   - 湖泊

@@ -6,7 +6,7 @@ descriptionEn: World's largest religious monument — peak of Khmer civilization
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-05-15
-cover: https://source.unsplash.com/1600x900/?Angkor%2CWat%2CCambodia
+cover: https://picsum.photos/seed/angkor-wat-64/1600/900
 tags:
   - 柬埔寨
   - 古迹

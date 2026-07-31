@@ -6,7 +6,7 @@ descriptionEn: Stone Town, spices, white sand — Indian Ocean spice island.
 category: 非洲
 categoryEn: 非洲
 date: 2026-05-16
-cover: https://source.unsplash.com/1600x900/?Tanzania%2CKilimanjaro%2Csafari%2CZanzibar
+cover: https://picsum.photos/seed/zanzibar-12/1600/900
 tags:
   - 坦桑尼亚
   - 海岛

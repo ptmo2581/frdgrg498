@@ -6,7 +6,7 @@ descriptionEn: A 14-day South Island self-drive itinerary covering Queenstown, M
 category: 大洋洲
 categoryEn: Oceania
 date: 2026-05-22
-cover: https://source.unsplash.com/1600x900/?New%2CZealand%2CMilford%2CSound
+cover: https://picsum.photos/seed/new-zealand-9/1600/900
 featured: true
 tags:
   - 新西兰

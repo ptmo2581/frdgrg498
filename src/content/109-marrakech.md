@@ -6,7 +6,7 @@ descriptionEn: Jemaa el-Fnaa, Majorelle Garden — red city charm.
 category: 非洲
 categoryEn: 非洲
 date: 2026-03-09
-cover: https://source.unsplash.com/1600x900/?Marrakech%2CMorocco%2Csouk
+cover: https://picsum.photos/seed/marrakech-19/1600/900
 tags:
   - 摩洛哥
   - 古城

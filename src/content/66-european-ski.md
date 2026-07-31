@@ -6,7 +6,7 @@ descriptionEn: Alpine ski resorts, snow trains — ultimate winter experience.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-06-05
-cover: https://source.unsplash.com/1600x900/?Alps%2Cski%2Csnow
+cover: https://picsum.photos/seed/european-ski-95/1600/900
 tags:
   - 瑞士
   - 滑雪

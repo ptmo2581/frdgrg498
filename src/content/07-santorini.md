@@ -6,7 +6,7 @@ descriptionEn: From Oia sunset to volcano hot springs, from Red Beach to cliff h
 category: 欧洲
 categoryEn: Europe
 date: 2026-06-10
-cover: https://source.unsplash.com/1600x900/?Santorini%2CGreece%2Cwhite%2Cblue
+cover: https://picsum.photos/seed/santorini-6/1600/900
 featured: true
 tags:
   - 希腊

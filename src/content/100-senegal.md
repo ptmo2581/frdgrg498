@@ -6,7 +6,7 @@ descriptionEn: Dakar, Pink Lake, Gorée Island — West African French flair.
 category: 非洲
 categoryEn: 非洲
 date: 2026-07-02
-cover: https://source.unsplash.com/1600x900/?Senegal%2CDakar%2CAfrica
+cover: https://picsum.photos/seed/senegal-10/1600/900
 tags:
   - 塞内加尔
   - 粉红湖

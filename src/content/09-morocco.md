@@ -6,7 +6,7 @@ descriptionEn: A 12-day Morocco loop covering Marrakech, Fes, Chefchaouen blue v
 category: 非洲
 categoryEn: Africa
 date: 2026-04-25
-cover: https://source.unsplash.com/1600x900/?Marrakech%2CMorocco%2Csouk
+cover: https://picsum.photos/seed/morocco-8/1600/900
 featured: false
 tags:
   - 摩洛哥

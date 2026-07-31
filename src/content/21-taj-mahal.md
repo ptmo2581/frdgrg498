@@ -6,7 +6,7 @@ descriptionEn: One of the Seven Wonders — the marble mausoleum of eternal love
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-04-27
-cover: https://source.unsplash.com/1600x900/?Taj%2CMahal%2CIndia
+cover: https://picsum.photos/seed/taj-mahal-50/1600/900
 tags:
   - 印度
   - 古迹

@@ -6,7 +6,7 @@ descriptionEn: Komodo dragon, pink beach, diving — UNESCO World Heritage.
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-03-26
-cover: https://source.unsplash.com/1600x900/?Komodo%2CIndonesia%2Cdragon
+cover: https://picsum.photos/seed/komodo-72/1600/900
 tags:
   - 印尼
   - 潜水

@@ -6,7 +6,7 @@ descriptionEn: Canals, Van Gogh Museum, Anne Frank — Venice of the North.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-09-24
-cover: https://source.unsplash.com/1600x900/?Amsterdam%2CNetherlands%2Ccanal
+cover: https://picsum.photos/seed/amsterdam-82/1600/900
 tags:
   - 荷兰
   - 艺术

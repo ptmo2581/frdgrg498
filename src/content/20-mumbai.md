@@ -6,7 +6,7 @@ descriptionEn: Bollywood, Gateway of India, India's financial capital of contras
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-02-04
-cover: https://source.unsplash.com/1600x900/?Mumbai%2CIndia%2Ccity
+cover: https://picsum.photos/seed/mumbai-49/1600/900
 tags:
   - 印度
   - 都市

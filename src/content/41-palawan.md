@@ -6,7 +6,7 @@ descriptionEn: Underground river, El Nido diving — Philippines' last frontier.
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-09-19
-cover: https://source.unsplash.com/1600x900/?Palawan%2CPhilippines%2Cisland
+cover: https://picsum.photos/seed/palawan-70/1600/900
 tags:
   - 菲律宾
   - 潜水

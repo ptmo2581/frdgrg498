@@ -6,7 +6,7 @@ descriptionEn: A complete guide covering Bali's six regions, beaches, temples, r
 category: 东南亚
 categoryEn: Southeast Asia
 date: 2026-04-02
-cover: https://source.unsplash.com/1600x900/?Bali%2CIndonesia%2Crice%2Cterrace
+cover: https://picsum.photos/seed/bali-1/1600/900
 featured: true
 tags:
   - 印尼

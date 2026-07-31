@@ -6,7 +6,7 @@ descriptionEn: Cairns, Whitsundays, Heart Reef — natural wonder of the world.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-05-11
-cover: https://source.unsplash.com/1600x900/?Great%2CBarrier%2CReef%2Ccoral
+cover: https://picsum.photos/seed/great-barrier-reef-28/1600/900
 tags:
   - 澳大利亚
   - 潜水

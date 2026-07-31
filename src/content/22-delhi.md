@@ -6,7 +6,7 @@ descriptionEn: Red Fort, Jama Masjid, India Gate — Delhi's blend of old and ne
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-07-24
-cover: https://source.unsplash.com/1600x900/?Delhi%2CIndia%2Cmonument
+cover: https://picsum.photos/seed/delhi-51/1600/900
 tags:
   - 印度
   - 历史

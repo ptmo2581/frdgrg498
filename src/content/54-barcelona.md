@@ -6,7 +6,7 @@ descriptionEn: Sagrada Família, Park Güell, paella — Gaudí's architectural 
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-07-25
-cover: https://source.unsplash.com/1600x900/?Barcelona%2CSpain%2CGaudi
+cover: https://picsum.photos/seed/barcelona-83/1600/900
 tags:
   - 西班牙
   - 建筑

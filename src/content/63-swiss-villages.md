@@ -6,7 +6,7 @@ descriptionEn: Interlaken, Lucerne, Spiez — fairy-tale Alpine villages.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-04-21
-cover: https://source.unsplash.com/1600x900/?Switzerland%2Cvillage%2Clake
+cover: https://picsum.photos/seed/swiss-villages-92/1600/900
 tags:
   - 瑞士
   - 乡村

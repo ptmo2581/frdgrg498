@@ -6,7 +6,7 @@ descriptionEn: A complete Maldives island-selection guide covering all-inclusive
 category: 东南亚
 categoryEn: Southeast Asia
 date: 2026-07-01
-cover: https://source.unsplash.com/1600x900/?Maldives%2Coverwater%2Cbungalow
+cover: https://picsum.photos/seed/maldives-7/1600/900
 featured: false
 tags:
   - 海岛

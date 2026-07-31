@@ -6,7 +6,7 @@ descriptionEn: Blue Lagoon, black sand beach, glacier hiking — geothermal wond
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-07-28
-cover: https://source.unsplash.com/1600x900/?Iceland%2Cglacier%2CBlue%2CLagoon
+cover: https://picsum.photos/seed/iceland-blue-lagoon-97/1600/900
 tags:
   - 冰岛
   - 温泉

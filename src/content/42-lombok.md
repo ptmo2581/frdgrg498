@@ -6,7 +6,7 @@ descriptionEn: Rinjani volcano, Kuta beach, Sasak culture — Bali's quieter nei
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-06-19
-cover: https://source.unsplash.com/1600x900/?Lombok%2CIndonesia%2Cvolcano
+cover: https://picsum.photos/seed/lombok-71/1600/900
 tags:
   - 印尼
   - 火山

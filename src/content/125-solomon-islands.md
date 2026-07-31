@@ -6,7 +6,7 @@ descriptionEn: WWII relics, diving, tribal culture — Pacific treasure.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-03-05
-cover: https://source.unsplash.com/1600x900/?Solomon%2CIslands%2Cdiving
+cover: https://picsum.photos/seed/solomon-islands-37/1600/900
 tags:
   - 所罗门群岛
   - 潜水

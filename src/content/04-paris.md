@@ -6,7 +6,7 @@ descriptionEn: From the Louvre to Montmartre, from croissants to Rive Gauche caf
 category: 欧洲
 categoryEn: Europe
 date: 2026-05-08
-cover: https://source.unsplash.com/1600x900/?Paris%2CFrance%2CEiffel
+cover: https://picsum.photos/seed/paris-3/1600/900
 featured: false
 tags:
   - 法国

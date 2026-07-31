@@ -6,7 +6,7 @@ descriptionEn: Cape Town, Cape of Good Hope, Kruger Park — rainbow nation.
 category: 非洲
 categoryEn: 非洲
 date: 2026-09-18
-cover: https://source.unsplash.com/1600x900/?South%2CAfrica%2CCape%2CTown
+cover: https://picsum.photos/seed/south-africa-122/1600/900
 tags:
   - 南非
   - 海岸线

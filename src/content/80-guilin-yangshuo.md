@@ -6,7 +6,7 @@ descriptionEn: Li River, West Street — Guilin landscape best under heaven.
 category: 中国
 categoryEn: 中国
 date: 2026-04-23
-cover: https://source.unsplash.com/1600x900/?Guilin%2CChina%2Ckarst%2Criver
+cover: https://picsum.photos/seed/guilin-yangshuo-109/1600/900
 tags:
   - 广西
   - 山水

@@ -6,7 +6,7 @@ descriptionEn: Humble Admin's Garden, Pingjiang Road — Jiangnan garden beauty.
 category: 中国
 categoryEn: 中国
 date: 2026-06-05
-cover: https://source.unsplash.com/1600x900/?Suzhou%2CChina%2Cgarden
+cover: https://picsum.photos/seed/suzhou-101/1600/900
 tags:
   - 江苏
   - 园林

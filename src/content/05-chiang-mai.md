@@ -6,7 +6,7 @@ descriptionEn: A slow-travel guide to Chiang Mai: old city, Doi Suthep, Pai, ele
 category: 东南亚
 categoryEn: Southeast Asia
 date: 2026-02-20
-cover: https://source.unsplash.com/1600x900/?Chiang%2CMai%2CThailand%2Ctemple
+cover: https://picsum.photos/seed/chiang-mai-4/1600/900
 featured: false
 tags:
   - 泰国

@@ -6,7 +6,7 @@ descriptionEn: Festival Centre, Kangaroo Island, Barossa Valley — SA's wine ca
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-07-28
-cover: https://source.unsplash.com/1600x900/?Adelaide%2CAustralia%2Cwinery
+cover: https://picsum.photos/seed/adelaide-25/1600/900
 tags:
   - 澳大利亚
   - 酒庄

@@ -6,7 +6,7 @@ descriptionEn: Pyramids, pharaohs, Nile — one of humanity's origins.
 category: 非洲
 categoryEn: 非洲
 date: 2026-08-18
-cover: https://source.unsplash.com/1600x900/?Egypt%2Cpyramids%2Cdesert
+cover: https://picsum.photos/seed/egypt-119/1600/900
 tags:
   - 埃及
   - 古迹

@@ -6,7 +6,7 @@ descriptionEn: Tanna volcano, underwater post office, jungle trekking.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-02-09
-cover: https://source.unsplash.com/1600x900/?Vanuatu%2Cvolcano%2Cisland
+cover: https://picsum.photos/seed/vanuatu-35/1600/900
 tags:
   - 瓦努阿图
   - 火山

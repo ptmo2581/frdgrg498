@@ -6,7 +6,7 @@ descriptionEn: Bund, Lujiazui, shikumen — Modu's century charm.
 category: 中国
 categoryEn: 中国
 date: 2026-06-13
-cover: https://source.unsplash.com/1600x900/?Shanghai%2CChina%2CBund
+cover: https://picsum.photos/seed/shanghai-113/1600/900
 tags:
   - 上海
   - 外滩

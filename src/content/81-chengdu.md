@@ -6,7 +6,7 @@ descriptionEn: Pandas, Kuan Zhai Alley, Sichuan opera — Ba-Shu leisure life.
 category: 中国
 categoryEn: 中国
 date: 2026-06-06
-cover: https://source.unsplash.com/1600x900/?Chengdu%2CChina%2Cpanda
+cover: https://picsum.photos/seed/chengdu-110/1600/900
 tags:
   - 四川
   - 美食

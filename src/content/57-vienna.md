@@ -6,7 +6,7 @@ descriptionEn: St. Stephen's Cathedral, Schönbrunn — the City of Music.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-04-13
-cover: https://source.unsplash.com/1600x900/?Vienna%2CAustria%2Cpalace
+cover: https://picsum.photos/seed/vienna-86/1600/900
 tags:
   - 奥地利
   - 音乐

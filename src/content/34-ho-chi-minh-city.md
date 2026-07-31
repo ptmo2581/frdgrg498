@@ -6,7 +6,7 @@ descriptionEn: Notre-Dame Cathedral, Central Post Office, Cu Chi Tunnels — vib
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-03-13
-cover: https://source.unsplash.com/1600x900/?Ho%2CChi%2CMinh%2CVietnam
+cover: https://picsum.photos/seed/ho-chi-minh-city-63/1600/900
 tags:
   - 越南
   - 历史

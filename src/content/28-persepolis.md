@@ -6,7 +6,7 @@ descriptionEn: Achaemenid palace ruins — testimony of ancient Persian glory.
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-07-09
-cover: https://source.unsplash.com/1600x900/?Persepolis%2CIran%2Cruins
+cover: https://picsum.photos/seed/persepolis-57/1600/900
 tags:
   - 伊朗
   - 古迹

@@ -6,7 +6,7 @@ descriptionEn: Buddhist city on Mekong, night market, alms giving, Kuang Si fall
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-04-05
-cover: https://source.unsplash.com/1600x900/?Luang%2CPrabang%2CLaos
+cover: https://picsum.photos/seed/luang-prabang-65/1600/900
 tags:
   - 老挝
   - 宗教

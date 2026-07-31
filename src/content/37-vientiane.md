@@ -6,7 +6,7 @@ descriptionEn: That Luang, Mekong sunset, French colonial — Laos's capital.
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-03-02
-cover: https://source.unsplash.com/1600x900/?Vientiane%2CLaos%2Ctemple
+cover: https://picsum.photos/seed/vientiane-66/1600/900
 tags:
   - 老挝
   - 宗教

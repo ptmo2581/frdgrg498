@@ -6,7 +6,7 @@ descriptionEn: Ao Nang, Railay Beach, Emerald Pool — Andaman limestone karst.
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-05-14
-cover: https://source.unsplash.com/1600x900/?Krabi%2CThailand%2Cbeach
+cover: https://picsum.photos/seed/krabi-75/1600/900
 tags:
   - 泰国
   - 海岛

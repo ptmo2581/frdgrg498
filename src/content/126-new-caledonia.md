@@ -6,7 +6,7 @@ descriptionEn: Southern Cross, lagoon, French flair — Pacific France.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-07-21
-cover: https://source.unsplash.com/1600x900/?New%2CCaledonia%2Clagoon
+cover: https://picsum.photos/seed/new-caledonia-38/1600/900
 tags:
   - 新喀里多尼亚
   - 潟湖

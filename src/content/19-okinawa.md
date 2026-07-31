@@ -6,7 +6,7 @@ descriptionEn: Ryukyu culture, diving, subtropical islands — Japan's southernm
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-08-05
-cover: https://source.unsplash.com/1600x900/?Okinawa%2CJapan%2Cbeach
+cover: https://picsum.photos/seed/okinawa-48/1600/900
 tags:
   - 日本
   - 海岛

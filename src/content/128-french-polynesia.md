@@ -6,7 +6,7 @@ descriptionEn: Tahiti, Bora Bora, pearls — South Pacific romance.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-07-02
-cover: https://source.unsplash.com/1600x900/?Bora%2Coverwater%2Cbungalow
+cover: https://picsum.photos/seed/french-polynesia-40/1600/900
 tags:
   - 法属波利尼西亚
   - 海岛

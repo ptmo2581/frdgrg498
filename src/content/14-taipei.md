@@ -6,7 +6,7 @@ descriptionEn: Taipei 101, Shilin night market, Eslite Bookstore — a city of c
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-03-24
-cover: https://source.unsplash.com/1600x900/?Taipei%2CTaiwan%2Ccity
+cover: https://picsum.photos/seed/taipei-43/1600/900
 tags:
   - 台湾
   - 美食

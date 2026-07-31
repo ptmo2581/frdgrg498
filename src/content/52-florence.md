@@ -6,7 +6,7 @@ descriptionEn: Uffizi Gallery, Duomo — birthplace of the Renaissance.
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-07-28
-cover: https://source.unsplash.com/1600x900/?Florence%2CItaly%2Ccathedral
+cover: https://picsum.photos/seed/florence-81/1600/900
 tags:
   - 意大利
   - 艺术

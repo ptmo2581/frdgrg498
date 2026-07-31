@@ -6,7 +6,7 @@ descriptionEn: From Shibuya crossing to Senso-ji temple, Tokyo blends tradition 
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-01-20
-cover: https://source.unsplash.com/1600x900/?Tokyo%2CJapan%2Ccity
+cover: https://picsum.photos/seed/tokyo-20/1600/900
 tags:
   - 日本
   - 都市

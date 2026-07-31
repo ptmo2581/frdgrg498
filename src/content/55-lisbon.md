@@ -6,7 +6,7 @@ descriptionEn: Belém Tower, Jerónimos Monastery, pastel de nata — Atlantic h
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-09-12
-cover: https://source.unsplash.com/1600x900/?Lisbon%2CPortugal%2Ccity
+cover: https://picsum.photos/seed/lisbon-84/1600/900
 tags:
   - 葡萄牙
   - 历史

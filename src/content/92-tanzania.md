@@ -6,7 +6,7 @@ descriptionEn: Kilimanjaro, Zanzibar, Serengeti — roof of Africa.
 category: 非洲
 categoryEn: 非洲
 date: 2026-06-13
-cover: https://source.unsplash.com/1600x900/?Tanzania%2CKilimanjaro%2Csafari
+cover: https://picsum.photos/seed/tanzania-121/1600/900
 tags:
   - 坦桑尼亚
   - 雪山

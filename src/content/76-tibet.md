@@ -6,7 +6,7 @@ descriptionEn: Potala Palace, Namtso Lake — sacred Roof of the World.
 category: 中国
 categoryEn: 中国
 date: 2026-01-27
-cover: https://source.unsplash.com/1600x900/?Tibet%2CPotala%2CPalace
+cover: https://picsum.photos/seed/tibet-105/1600/900
 tags:
   - 西藏
   - 高原

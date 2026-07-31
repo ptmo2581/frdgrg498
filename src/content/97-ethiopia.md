@@ -6,7 +6,7 @@ descriptionEn: Lalibela, Axum, coffee origin — cradle of Africa.
 category: 非洲
 categoryEn: 非洲
 date: 2026-02-10
-cover: https://source.unsplash.com/1600x900/?Ethiopia%2CLalibela%2Cchurch
+cover: https://picsum.photos/seed/ethiopia-126/1600/900
 tags:
   - 埃塞俄比亚
   - 宗教

@@ -6,7 +6,7 @@ descriptionEn: Tianzi Mountain, Golden Whip Stream — Avatar filming location.
 category: 中国
 categoryEn: 中国
 date: 2026-06-17
-cover: https://source.unsplash.com/1600x900/?Zhangjiajie%2CChina%2Cmountains
+cover: https://picsum.photos/seed/zhangjiajie-108/1600/900
 tags:
   - 湖南
   - 山岳

@@ -6,7 +6,7 @@ descriptionEn: A 10-day Ring Road self-drive itinerary covering Golden Circle, S
 category: 欧洲
 categoryEn: Europe
 date: 2026-01-15
-cover: https://source.unsplash.com/1600x900/?Iceland%2Cglacier%2Caurora
+cover: https://picsum.photos/seed/iceland-2/1600/900
 featured: true
 tags:
   - 冰岛

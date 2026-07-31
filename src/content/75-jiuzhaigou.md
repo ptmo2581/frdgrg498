@@ -6,7 +6,7 @@ descriptionEn: Five-Flower Lake, Pearl Shoal, Nuorilang — fairy-tale world.
 category: 中国
 categoryEn: 中国
 date: 2026-03-15
-cover: https://source.unsplash.com/1600x900/?Jiuzhaigou%2CChina%2Clake%2Ccolorful
+cover: https://picsum.photos/seed/jiuzhaigou-104/1600/900
 tags:
   - 四川
   - 湖泊

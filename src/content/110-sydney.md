@@ -6,7 +6,7 @@ descriptionEn: Opera House, Harbour Bridge, Bondi Beach — Australia's iconic c
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-06-21
-cover: https://source.unsplash.com/1600x900/?Sydney%2COpera%2CHouse%2CAustralia
+cover: https://picsum.photos/seed/sydney-21/1600/900
 tags:
   - 澳大利亚
   - 都市

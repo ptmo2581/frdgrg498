@@ -6,7 +6,7 @@ descriptionEn: Charles Bridge, Prague Castle, Astronomical Clock — the City of
 category: 欧洲
 categoryEn: 欧洲
 date: 2026-07-01
-cover: https://source.unsplash.com/1600x900/?Prague%2CCzech%2Ccastle
+cover: https://picsum.photos/seed/prague-85/1600/900
 tags:
   - 捷克
   - 哥特

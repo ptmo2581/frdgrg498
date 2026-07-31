@@ -6,7 +6,7 @@ descriptionEn: Hoan Kiem Lake, Old Quarter, water puppetry — Vietnam's millenn
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-08-08
-cover: https://source.unsplash.com/1600x900/?Hanoi%2CVietnam%2Ccity
+cover: https://picsum.photos/seed/hanoi-62/1600/900
 tags:
   - 越南
   - 历史

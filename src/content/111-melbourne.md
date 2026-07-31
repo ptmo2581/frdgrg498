@@ -6,7 +6,7 @@ descriptionEn: Federation Square, Great Ocean Road — Australia's culture capit
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-07-23
-cover: https://source.unsplash.com/1600x900/?Melbourne%2CAustralia%2CGreat%2COcean
+cover: https://picsum.photos/seed/melbourne-22/1600/900
 tags:
   - 澳大利亚
   - 大洋路

@@ -6,7 +6,7 @@ descriptionEn: Blue Mosque, Hagia Sophia, Bosphorus — ancient capital spanning
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-03-02
-cover: https://source.unsplash.com/1600x900/?Istanbul%2CTurkey%2Cmosque
+cover: https://picsum.photos/seed/istanbul-53/1600/900
 tags:
   - 土耳其
   - 古迹

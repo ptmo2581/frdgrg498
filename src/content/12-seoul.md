@@ -6,7 +6,7 @@ descriptionEn: Hongdae shopping, Myeongdong food, Gyeongbokgung history — Seou
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-06-01
-cover: https://source.unsplash.com/1600x900/?Seoul%2CKorea%2Ccity
+cover: https://picsum.photos/seed/seoul-31/1600/900
 tags:
   - 韩国
   - 购物

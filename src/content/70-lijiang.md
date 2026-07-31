@@ -6,7 +6,7 @@ descriptionEn: Old town, Jade Dragon Snow Mountain, Shuhe — Naxi slow life.
 category: 中国
 categoryEn: 中国
 date: 2026-08-24
-cover: https://source.unsplash.com/1600x900/?Lijiang%2CYunnan%2CChina%2Cold
+cover: https://picsum.photos/seed/lijiang-99/1600/900
 tags:
   - 云南
   - 古城

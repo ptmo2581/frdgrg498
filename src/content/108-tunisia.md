@@ -6,7 +6,7 @@ descriptionEn: Carthage, Sfax, Sahara — African Mediterranean.
 category: 非洲
 categoryEn: 非洲
 date: 2026-02-09
-cover: https://source.unsplash.com/1600x900/?Tunisia%2CCarthage%2Cdesert
+cover: https://picsum.photos/seed/tunisia-18/1600/900
 tags:
   - 突尼斯
   - 古迹

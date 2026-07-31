@@ -6,7 +6,7 @@ descriptionEn: Rarotonga, Aitutaki, Polynesian culture.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-08-13
-cover: https://source.unsplash.com/1600x900/?Cook%2CIslands%2Clagoon
+cover: https://picsum.photos/seed/cook-islands-39/1600/900
 tags:
   - 库克群岛
   - 海岛

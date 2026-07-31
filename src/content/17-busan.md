@@ -6,7 +6,7 @@ descriptionEn: Haeundae Beach, Gamcheon Culture Village, Jagalchi Fish Market �
 category: 亚洲
 categoryEn: 亚洲
 date: 2026-05-13
-cover: https://source.unsplash.com/1600x900/?Busan%2CKorea%2Cbeach
+cover: https://picsum.photos/seed/busan-46/1600/900
 tags:
   - 韩国
   - 海滩

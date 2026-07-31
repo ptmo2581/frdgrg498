@@ -6,7 +6,7 @@ descriptionEn: Shwedagon Pagoda, colonial architecture — Myanmar's spiritual h
 category: 东南亚
 categoryEn: 东南亚
 date: 2026-03-28
-cover: https://source.unsplash.com/1600x900/?Yangon%2CMyanmar%2Cpagoda
+cover: https://picsum.photos/seed/yangon-67/1600/900
 tags:
   - 缅甸
   - 宗教

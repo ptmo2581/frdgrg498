@@ -6,7 +6,7 @@ descriptionEn: Gulangyu, Zengcuo'an, tulou — garden on the sea.
 category: 中国
 categoryEn: 中国
 date: 2026-08-22
-cover: https://source.unsplash.com/1600x900/?Xiamen%2CChina%2Cisland
+cover: https://picsum.photos/seed/xiamen-114/1600/900
 tags:
   - 福建
   - 海岛

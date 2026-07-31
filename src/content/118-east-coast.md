@@ -6,7 +6,7 @@ descriptionEn: Sydney to Brisbane coast — surfing, beaches, rainforest.
 category: 大洋洲
 categoryEn: 大洋洲
 date: 2026-03-18
-cover: https://source.unsplash.com/1600x900/?Australia%2Cbeach%2Csurf
+cover: https://picsum.photos/seed/east-coast-29/1600/900
 tags:
   - 澳大利亚
   - 海岸

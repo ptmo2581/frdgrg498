@@ -6,7 +6,7 @@ descriptionEn: From Erhai lake loop to Dali old town, from Xizhou morning market
 category: 中国
 categoryEn: China
 date: 2026-03-28
-cover: https://source.unsplash.com/1600x900/?Dali%2CYunnan%2CChina%2Clake
+cover: https://picsum.photos/seed/dali-5/1600/900
 featured: false
 tags:
   - 云南
