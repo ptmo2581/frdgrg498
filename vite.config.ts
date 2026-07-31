@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue'
 import { resolve } from 'node:path'
 import { versionPlugin } from './src/plugins/version'
 
-const BASE = process.env.VITE_BASE || '/frdgrg498/'
+const BASE = process.env.VITE_BASE || '/'
 
 export default defineConfig({
   base: BASE,

@@ -35,7 +35,11 @@ jobs:
         run: |
           REPO="${GITHUB_REPOSITORY#*/}"
           OWNER="${GITHUB_REPOSITORY%/*}"
-          if [[ "$REPO" == "$OWNER.github.io" ]]; then
+          # Check if a custom domain CNAME file exists
+          if [[ -f "public/CNAME" ]]; then
+            echo "Custom domain CNAME detected, using base=/"
+            echo "base=/" >> "$GITHUB_OUTPUT"
+          elif [[ "$REPO" == "$OWNER.github.io" ]]; then
             echo "base=/" >> "$GITHUB_OUTPUT"
           else
             echo "base=/$REPO/" >> "$GITHUB_OUTPUT"
@@ -58,10 +62,22 @@ jobs:
           echo "---"
           ls -la dist/assets/ || echo "No assets directory found!"
 
-      - name: Setup SPA fallback
+      - name: Setup SPA fallback & ensure CNAME
         run: |
           cp dist/index.html dist/404.html
           touch dist/.nojekyll
+          # Ensure CNAME file is present in dist for custom domain
+          if [[ -f "public/CNAME" ]]; then
+            cp public/CNAME dist/CNAME
+            echo "CNAME file copied to dist/"
+          fi
+          # Ensure _redirects file is present
+          if [[ ! -f "dist/_redirects" ]]; then
+            echo "/* /index.html 200" > dist/_redirects
+            echo "_redirects file created in dist/"
+          fi
+          echo "Dist contents:"
+          ls -la dist/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
